@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1774963679 source:c:\users\caueportodeandrade\c-code\ex\l02\l02ex08\l02ex08.c
+	<stdio.h>
+	<locale.h>
+
